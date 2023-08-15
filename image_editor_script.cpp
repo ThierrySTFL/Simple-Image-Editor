@@ -4,8 +4,9 @@
 //
 // Autores: Andre Gustavo dos Santos			(criado em 16/06/14)
 //          Andre Gustavo dos Santos			(modificado em 22/05/18)
-//			Andre Gustavo dos Santos			(modificado em 13/09/21)
-//			Andre Gustavo dos Santos			(modificado em 30/05/23)
+//	    Andre Gustavo dos Santos			(modificado em 13/09/21)
+//	    Andre Gustavo dos Santos			(modificado em 30/05/23)
+//	    Thierry Stofel Driusso			(Demais modificações, implementação dos filtros)
 
 #include <iostream>
 #include <fstream>
